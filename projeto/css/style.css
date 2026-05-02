@@ -1,0 +1,59 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-color: #000;
+    color: #fff;
+}
+
+header {
+    background: #111;
+    padding: 20px;
+    text-align: center;
+}
+
+header h1 {
+    color: gold;
+}
+
+nav {
+    margin-top: 10px;
+}
+
+nav a {
+    color: white;
+    margin: 0 15px;
+    text-decoration: none;
+    transition: 0.3s;
+}
+
+nav a:hover {
+    color: red;
+}
+
+.secao {
+    padding: 60px 20px;
+    text-align: center;
+}
+
+
+form {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+
+.campo {
+    display: flex;
+    align-items: center;
+    background: #111;
+    margin: 10px;
+    padding: 10px;
+    border-radius: 8px;
+    width: 300px;
+}
