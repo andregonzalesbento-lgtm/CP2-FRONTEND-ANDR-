@@ -49,7 +49,7 @@ projeto/
 
 ## 🌐 Acesse o Projeto
 
-👉 github pages> 
+👉 github pages> https://andregonzalesbento-lgtm.github.io/CP2-FRONTEND-ANDR-/
 
 ---
 
